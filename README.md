@@ -109,8 +109,25 @@ https://github.com/user-attachments/assets/c999ee1a-d057-4eae-8729-d06243c85edf
 
 https://github.com/user-attachments/assets/3b03eae7-d2e1-402b-9e48-aa4cc16106c1
 
+# Ablation Studies on depth loss, ground model and NTDNet.
 
+<div align="center">
+    Original Trajectory
+</div>
 
+https://github.com/user-attachments/assets/85baee2c-0405-407e-964b-68d3854e4a72
+
+<div align="center">
+    Lane Shift @ 3m
+</div>
+
+https://github.com/user-attachments/assets/ba386e2c-cf68-434e-9416-c7a1d283d062
+
+<div align="center">
+    Lane Shift @ 6m
+</div>
+
+Uploading lane_shift_left_6m_comparison.mp4…
 
 # Acknowledgements
 We would like to thank the following works and projects, for their open research and exploration: [DriveStudio](https://github.com/ziyc/drivestudio), [DriveDreamer](https://github.com/JeffWang987/DriveDreamer), 
