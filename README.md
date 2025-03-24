@@ -1,6 +1,3 @@
-
-https://github.com/user-attachments/assets/7d7e5876-28a3-4736-98ed-ed845d5292f4
-
 <div align="center">   
   
 # ReconDreamer++: Harmonizing Generative and Reconstructive Models for Driving Scene Representation
@@ -111,6 +108,9 @@ https://github.com/user-attachments/assets/c999ee1a-d057-4eae-8729-d06243c85edf
 </div>
 
 https://github.com/user-attachments/assets/3b03eae7-d2e1-402b-9e48-aa4cc16106c1
+
+
+
 
 # Acknowledgements
 We would like to thank the following works and projects, for their open research and exploration: [DriveStudio](https://github.com/ziyc/drivestudio), [DriveDreamer](https://github.com/JeffWang987/DriveDreamer), 
