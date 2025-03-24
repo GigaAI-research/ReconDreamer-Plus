@@ -13,15 +13,13 @@
 
 Combining reconstruction models with generative models has emerged as a promising paradigm for closed-loop simulation in autonomous driving. For example, ReconDreamer has demonstrated remarkable success in rendering large-scale maneuvers. However, a significant gap remains between the generated data and real-world sensor observations, particularly in terms of fidelity for structured elements, such as the ground surface. To address these challenges, we propose **ReconDreamer++**, an enhanced framework that significantly improves the overall rendering quality by mitigating the domain gap and refining the representation of the ground surface. Specifically, **ReconDreamer++** introduces the Novel Trajectory Deformable Network (NTDNet), which leverages learnable spatial deformation mechanisms to bridge the domain gap between synthesized novel views and original sensor observations. Moreover, for structured elements such as the ground surface, we preserve geometric prior knowledge in 3D Gaussians, and the optimization process focuses on refining appearance attributes while preserving the underlying geometric structure. Experimental evaluations conducted on multiple datasets (Waymo, nuScenes, PandaSet, and EUVS) confirm the superior performance of **ReconDreamer++**. Specifically, on Waymo, **ReconDreamer++** achieves performance comparable to Street Gaussians for the original trajectory while significantly outperforming ReconDreamer on novel trajectories. In particular, it achieves substantial improvements, including a 6.1% increase in NTA-IoU, a 23. 0% improvement in FID, and a remarkable 4.5% gain in the ground surface metric NTL-IoU, highlighting its effectiveness in accurately reconstructing structured elements such as the road surface.
 
-# ReconDreamer++ Framework
-
-![framework](https://github.com/user-attachments/assets/5d673deb-3dc3-4b41-86af-970e17022644)
-
-# Key Feature
-
 ![key_feature](https://github.com/user-attachments/assets/f591726c-a316-4373-97d9-b38ae4fd087e)
 
 Comparison of ReconDreamer++ with SOTA methods, Street Gaussians and ReconDreamer, on original and novel trajectories. **Left**: ReconDreamer++ demonstrates superior rendering performance for both vehicle foregrounds and road surfaces compared to existing SOTA methods. **Right**: ReconDreamer++ significantly improves performance on novel trajectories while maintaining high rendering quality on the original trajectory.
+
+# ReconDreamer++ Framework
+
+![framework](https://github.com/user-attachments/assets/5d673deb-3dc3-4b41-86af-970e17022644)
 
 # Rendering Results on Various Datasets
 <div align="center">
