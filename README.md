@@ -127,7 +127,7 @@ https://github.com/user-attachments/assets/ba386e2c-cf68-434e-9416-c7a1d283d062
     Lane Shift @ 6m
 </div>
 
-Uploading lane_shift_left_6m_comparison.mp4…
+https://github.com/user-attachments/assets/22c59e46-4f1e-480e-b9a9-8f832591406e
 
 # Acknowledgements
 We would like to thank the following works and projects, for their open research and exploration: [DriveStudio](https://github.com/ziyc/drivestudio), [DriveDreamer](https://github.com/JeffWang987/DriveDreamer), 
