@@ -1,4 +1,6 @@
 
+https://github.com/user-attachments/assets/7d7e5876-28a3-4736-98ed-ed845d5292f4
+
 <div align="center">   
   
 # ReconDreamer++: Harmonizing Generative and Reconstructive Models for Driving Scene Representation
@@ -16,9 +18,11 @@ Combining reconstruction models with generative models has emerged as a promisin
 
 # ReconDreamer++ Framework
 
+![framework](https://github.com/user-attachments/assets/5d673deb-3dc3-4b41-86af-970e17022644)
 
 # Key Feature
 
+![key_feature](https://github.com/user-attachments/assets/f591726c-a316-4373-97d9-b38ae4fd087e)
 
 Comparison of ReconDreamer++ with SOTA methods, Street Gaussians and ReconDreamer, on original and novel trajectories. **Left**: ReconDreamer++ demonstrates superior rendering performance for both vehicle foregrounds and road surfaces compared to existing SOTA methods. **Right**: ReconDreamer++ significantly improves performance on novel trajectories while maintaining high rendering quality on the original trajectory.
 
@@ -27,25 +31,23 @@ Comparison of ReconDreamer++ with SOTA methods, Street Gaussians and ReconDreame
     <h1 style="font-size: 32px;">Waymo</h1>
 </div>
 
-
 <div align="center">
     Original Trajectory
 </div>
 
-
+https://github.com/user-attachments/assets/0d5224f0-4659-4020-9622-90d2ca7d60ef
 
 <div align="center">
     Lane Shift @ 3m
 </div>
 
-
+https://github.com/user-attachments/assets/7e50b97b-3553-4cef-a6c0-45447db77c6f
 
 <div align="center">
     Lane Shift @ 6m
 </div>
 
-
-
+https://github.com/user-attachments/assets/565ddc44-5727-439e-abc9-85a49d5376c7
 
 <div align="center">
     <h1 style="font-size: 32px;">nuScenes</h1>
@@ -56,19 +58,19 @@ Comparison of ReconDreamer++ with SOTA methods, Street Gaussians and ReconDreame
     Original Trajectory
 </div>
 
-
+https://github.com/user-attachments/assets/794ec6a8-0734-415a-8ede-dccfe15b3f77
 
 <div align="center">
     Lane Shift @ 3m
 </div>
 
-
+https://github.com/user-attachments/assets/aea28c7a-7e15-4824-b55b-f47682f7a3e5
 
 <div align="center">
     Lane Shift @ 6m
 </div>
 
-
+https://github.com/user-attachments/assets/38ba2c22-2766-414d-9c77-46472f4b2869
 
 <div align="center">
     <h1 style="font-size: 32px;">PandaSet</h1>
@@ -79,24 +81,19 @@ Comparison of ReconDreamer++ with SOTA methods, Street Gaussians and ReconDreame
     Original Trajectory
 </div>
 
-
+https://github.com/user-attachments/assets/5350ec74-2431-448e-a99b-86bf747b55bc
 
 <div align="center">
     Lane Shift @ 2m
 </div>
 
-
+https://github.com/user-attachments/assets/6e0f615f-397c-4f3b-8b1e-45fc2f6ecdcc
 
 <div align="center">
     Lane Shift @ 3m
 </div>
 
-
-<div align="center">
-    Vertical Shift @ 1m
-</div>
-
-
+https://github.com/user-attachments/assets/18284e72-125a-49f8-b038-02b25590283c
 
 <div align="center">
     <h1 style="font-size: 32px;">EUVS</h1>
@@ -107,12 +104,13 @@ Comparison of ReconDreamer++ with SOTA methods, Street Gaussians and ReconDreame
     Train Set
 </div>
 
-
+https://github.com/user-attachments/assets/c999ee1a-d057-4eae-8729-d06243c85edf
 
 <div align="center">
-    Test
+    Test Set
 </div>
 
+https://github.com/user-attachments/assets/3b03eae7-d2e1-402b-9e48-aa4cc16106c1
 
 # Acknowledgements
 We would like to thank the following works and projects, for their open research and exploration: [DriveStudio](https://github.com/ziyc/drivestudio), [DriveDreamer](https://github.com/JeffWang987/DriveDreamer), 
