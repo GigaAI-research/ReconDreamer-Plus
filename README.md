@@ -4,7 +4,7 @@
 </div>
 
  
-## [Project Page](https://recondreamer-plus.github.io/) | [Paper]()
+## [Project Page](https://recondreamer-plus.github.io/) | [Paper](https://arxiv.org/abs/2503.18438)
 
 # News
 - **[2025/03/24]** Repository Initialization.
