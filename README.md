@@ -131,15 +131,15 @@ https://github.com/user-attachments/assets/22c59e46-4f1e-480e-b9a9-8f832591406e
 We would like to thank the following works and projects, for their open research and exploration: [DriveStudio](https://github.com/ziyc/drivestudio), [DriveDreamer](https://github.com/JeffWang987/DriveDreamer), 
 [DriveDreamer-2](https://github.com/f1yfisher/DriveDreamer2), [DriveDreamer4D](https://github.com/GigaAI-research/DriveDreamer4D), [ReconDreamer](https://github.com/GigaAI-research/ReconDreamer).
 
-<!-- # Bibtex
+# Bibtex
 If this work is helpful for your research, please consider citing the following BibTeX entry.
 
 ```
-@inproceedings{zhao2024drive,
-    title={DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation}, 
-    author={Guosheng Zhao and Chaojun Ni and Xiaofeng Wang and Zheng Zhu and Xueyang Zhang and Yida Wang and Guan Huang and Xinze Chen and Boyuan Wang and Youyi Zhang and Wenjun Mei and Xingang Wang},
-    journal={arxiv arXiv preprint arXiv:2410.13571},
-    year={2024},
-} -->
+@inproceedings{zhao2025recon,
+    title={ReconDreamer++: Harmonizing Generative and Reconstructive Models for Driving Scene Representation}, 
+    author={Guosheng Zhao and Xiaofeng Wang and Chaojun Ni and Zheng Zhu and and Wenkang Qin and Guan Huang and Xingang Wang},
+    journal={arxiv arXiv preprint arXiv:2503.18438},
+    year={2025},
+}
 
 
